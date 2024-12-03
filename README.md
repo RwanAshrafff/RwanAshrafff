@@ -2,7 +2,7 @@
 ### 🚀 Software Engineer | Competitive Programmer | Web Developer  
 
 #### 🛠 Skills  
-- **Languages**: C++, Python, JavaScript  
+- **Languages**: C,C++, Python, JavaScript  
 - **Frameworks**: Django 
 - **Tools**: Git, VS Code
 #### 📫 Contact Me  
