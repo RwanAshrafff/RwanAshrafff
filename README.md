@@ -1,9 +1,7 @@
 <!-- 🌸 Pink Animated Header -->
 <h1 align="center">Hi 👋, I'm Rwan</h1>
-<h3 align="center">💻 Software Engineer | Full-Stack Developer | AI Enthusiast </h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Smart+%26+Helpful+Systems;Full+Stack+Developer;AI+%7C+Enthusiast;Problem+Solver+💗&center=true&width=520&height=45&color=FF69B4">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver+💗&center=true&width=520&height=45&color=FF69B4">
 </p>
 
 <p align="center">
