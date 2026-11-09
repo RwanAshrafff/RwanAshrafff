@@ -1,7 +1,7 @@
 <!-- 🌸 Pink Animated Header -->
 <h1 align="center">Hi 👋, I'm Rwan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+💻;AI+Enthusiast+🤖;Problem+Solver+🧠&center=true&width=520&height=45&color=FF69B4">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer+💻;AI+Enthusiast+🤖;Problem+Solver+🧠&center=true&width=520&height=45&color=FF69B4">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 
 ## 🌸 About Me
-- 🎓 Passionate about **AI, full-stack development, and impactful technology**
+- 🎓 Passionate about **AI, backend development, and impactful technology**
 - 🏗️ Love designing systems with **Clean Architecture & OOP**
 - 🧠 Programmer who enjoys **algorithms & problem solving**
 - 💖 Dreaming of building **technology that helps people & education**
@@ -47,7 +47,7 @@
 ## 💌 Connect With Me
 
 <p align="center">
-  <a href="mailto:r.ashraf2257@nu.edu.eg">
+  <a href="mailto:rwanashraf374@gmailcom">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rwan-ashraf">
