@@ -13,7 +13,7 @@
 - 🎓 Passionate about **AI, backend development, and impactful technology**
 - 🏗️ Love designing systems with **Clean Architecture & OOP**
 - 🧠 Programmer who enjoys **algorithms & problem solving**
-- 💖 Dreaming of building **technology that helps people & education**
+- 💖 Dreaming of building **technology that helps people and solve real-world challenges**
 
 ---
 
