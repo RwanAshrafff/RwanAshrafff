@@ -39,7 +39,6 @@
 - 🤖 **AI-driven intelligent systems & NLP**
 - 🌐 **Scalable full-stack applications**
 - 🧠 **Advanced algorithms**
-- 🎓 **Technology for education, accessibility & community**
 
 ---
 
